@@ -1,0 +1,25 @@
+Prerequisite React
+
+1. HTML & CSS
+2. Javascript Fundamentals
+3. DOM
+4. Modern Javascript (ES6)
+5. Git & CLI (Command Line Interface)
+6. Package Manager(NodeJS + NPM)
+
+About Modern Javascript (ES6)
+1. ES6 Variables (let & const)
+2. Functions & Arrow Functions
+3. Objects & Classes
+4. Arrays & Array Methods
+5. Destructuring
+6. Template Literals
+7. Ternary Operators
+8. ES Modules & Import / Export Syntax
+
+Editor Setup
+
+1. Code Editor : VSCode
+2. Linter : ESLint
+3. Code Formatter: Prettier
+4. Browser Extension : React Developer Tools
